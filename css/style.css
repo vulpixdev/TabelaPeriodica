@@ -1,0 +1,88 @@
+/*Bruna Domingos Hoffmann - 2E2 - 22403019
+Atividade Apostila página 44 - Tabela periódica*/
+
+body{
+    height: 955px;
+    background-color: #faebd7;
+}
+
+table{
+    width: 100%;
+    height: 100%;
+}
+
+td {
+    border: double;
+    width: 5%;
+    height: 7.14%;
+    justify-content: center;
+    font-size: x-large;
+    text-align: center;
+}
+
+.semborda{
+    border: none;
+    width: 5%;
+    height: 7.6%;
+}
+
+.titulo{
+    border: none;
+    font-size: 250%;
+}
+
+.num{
+    margin: 0%;
+    font-size: small;
+    text-align: left;
+}
+
+.nome{
+    font-size: small;
+}
+
+.legenda{
+    font-size:large;
+}
+
+/*Definição de cores tabela*/
+
+.naometal{
+    color:rgb(97, 197, 164);
+}
+
+.alca{
+    color:rgb(156, 122, 81);
+}
+
+.terra{
+    color: rgb(233, 178, 39);
+}
+
+.trans{
+    color: rgb(161, 24, 24);
+}
+
+.metal{
+    color: gray;
+}
+
+.semimetal{
+    color: rgb(87, 143, 87);
+}
+
+.halo{
+    color: cadetblue;
+}
+
+.nobre{
+    color:rgb(18, 63, 146);
+}
+
+.latan{
+    color:rgb(96, 196, 196);
+}
+
+.acti{
+    color:plum;
+}
